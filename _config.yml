@@ -2,6 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
+
 title: Søren Knudsen, PhD, MSc Eng. | Assistant Professor at the Digital Design Department, IT University of Copenhagen
 first_name: Søren
 middle_name: 
@@ -15,7 +16,7 @@ footer_text: >
 #  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 
 url: https://sknudsen.github.io # the base hostname & protocol for your site
-baseurl: /sorenknudsen.com-test2 # the subpath of your site, e.g. /blog/
+baseurl: /sorenknudsen.com-test1 # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: /impressum # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 future: true # Also render sites which are dated in the future
